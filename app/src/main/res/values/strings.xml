@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SP20FinalAssessment</string>
+    <string name="auth_failed">Process failed.</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="tab_text_1">Game</string>
+    <string name="tab_text_2">Scores</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
